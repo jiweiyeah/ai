@@ -1,5 +1,11 @@
 # @ai-sdk/react
 
+## 4.0.126
+
+### Patch Changes
+
+- 193d284: fix(react): deduplicate automatic stream resumption for shared Chat instances
+
 ## 4.0.125
 
 ### Patch Changes

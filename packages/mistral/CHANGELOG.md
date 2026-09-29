@@ -1,5 +1,12 @@
 # @ai-sdk/mistral
 
+## 4.0.55
+
+### Patch Changes
+
+- c636bb4: fix(mistral): map provider error finish reasons to error
+- 5fa97cd: fix(mistral): preserve JSON schemas when structured outputs are disabled
+
 ## 4.0.54
 
 ### Patch Changes
